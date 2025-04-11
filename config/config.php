@@ -1,6 +1,6 @@
 <?php
-$siteName = "CryptoFuture Summit";
-$contactEmail = "info@cryptofuturesummit.kz";
-$contactAddress = "проспект Аль-Фараби, 77/7, Алматы, Казахстан";
-$tel = "+7 727 355 4411";
+$siteName = "";
+$contactEmail = "goldtechsummit@gmail.com";
+$contactAddress = "10 Cavill Avenue, Gold Coast, QLD 4217, Australia";
+$tel = "+61 7 5661 2233";
 ?>
